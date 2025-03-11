@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+nav{
+   
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+
+img{
+    width: 600px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+li{
+    display: inline-block;
+    margin: 0 15px;
+}
+
+p{
+    text-align: center;
+    max-width: 600px;
+    margin: 20px auto;
+
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
